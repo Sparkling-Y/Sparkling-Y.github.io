@@ -21,7 +21,7 @@ repository               : "zjy-cqu/zjy-cqu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhangjiaying.png"
+  avatar           : "pic.png"
   name             : "Jiaying Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.d candidate"
